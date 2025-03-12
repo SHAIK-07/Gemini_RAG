@@ -1,0 +1,16 @@
+# boto3
+# awscli
+# streamlit
+
+# python-dotenv
+# IPython
+# google-generativeai
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+langchain-community
