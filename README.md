@@ -18,7 +18,7 @@ This is a **Streamlit** application that allows users to upload PDFs and ask que
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/SHAIK-07/Gemini_RAG.git
-cd chat-with-pdf-gemini
+cd Gemini_RAG
 ```
 
 ### **2️⃣ Create a Virtual Environment & Install Dependencies**
