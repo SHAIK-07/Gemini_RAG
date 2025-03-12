@@ -5,7 +5,7 @@ This is a **Streamlit** application that allows users to upload PDFs and ask que
 ---
 
 ## 🚀 Features
-- **Upload Multiple PDFs**: Extracts text from uploaded PDF files.
+- **Upload Documents (PDF, CSV, Excel) or Enter a URL**: Extracts text from uploaded files.
 - **Text Chunking**: Splits extracted text into manageable chunks for efficient processing.
 - **Embeddings with FAISS**: Uses Google's `embedding-001` model to store and retrieve text chunks.
 - **Conversational AI**: Uses `gemini-1.5-pro-latest` to generate responses based on document content.
@@ -53,7 +53,7 @@ This will launch the application in your web browser.
 
 ## 📌 Usage Guide
 1. **Enter your Google Gemini API Key** in the sidebar.
-2. **Upload one or more PDFs**.
+2. **Upload Documents (PDF, CSV, Excel) or Enter a URL**.
 3. Click on **Submit & Process** to extract and index text.
 4. Type a **question related to the PDF content** in the chat input.
 5. Get AI-generated answers based on document content.
@@ -67,7 +67,7 @@ This will launch the application in your web browser.
 - Try generating a **new API key** if issues persist.
 
 ### **Text Extraction Issues**
-- Some PDFs may have non-selectable text (scanned documents). Use **OCR tools** like Tesseract for preprocessing.
+- Some Files may have non-selectable text (scanned documents). Use **OCR tools** like Tesseract for preprocessing.
 
 ---
 
